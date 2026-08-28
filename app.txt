@@ -1,3 +1,4 @@
 Collabration Demo Project
 Version 1.0
+This line was created in branch conflict-branch-1.
 This line was created in Branch conflict-branch-2.
